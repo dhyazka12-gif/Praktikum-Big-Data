@@ -1,0 +1,2 @@
+Halo dari Praktikum Big Data!
+Berkas ini awalnya tersimpan di disk lokal VM.
