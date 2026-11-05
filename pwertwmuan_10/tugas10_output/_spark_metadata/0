@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/azka/praktikum-bigdata/pwertwmuan_10/tugas10_output/part-00000-326b8a3f-1be4-443c-ad80-2ba749b34b11-c000.snappy.parquet","size":1935,"isDir":false,"modificationTime":1793861974595,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/azka/praktikum-bigdata/pwertwmuan_10/tugas10_output/part-00001-caf6f749-0ef7-47d6-9bf2-5c5a543de424-c000.snappy.parquet","size":1886,"isDir":false,"modificationTime":1793861974595,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/azka/praktikum-bigdata/pwertwmuan_10/tugas10_output/part-00002-946ec019-9222-4382-9c61-056f3e71332c-c000.snappy.parquet","size":1804,"isDir":false,"modificationTime":1793861974595,"blockReplication":1,"blockSize":33554432,"action":"add"}

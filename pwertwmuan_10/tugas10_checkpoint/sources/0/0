@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/azka/praktikum-bigdata/pwertwmuan_10/tugas10_stream/batch_1.csv","timestamp":1793861871228,"batchId":0}
+{"path":"file:///home/azka/praktikum-bigdata/pwertwmuan_10/tugas10_stream/batch_2.csv","timestamp":1793861888592,"batchId":0}
+{"path":"file:///home/azka/praktikum-bigdata/pwertwmuan_10/tugas10_stream/batch_3.csv","timestamp":1793861907611,"batchId":0}

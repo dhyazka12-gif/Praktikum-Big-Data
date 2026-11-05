@@ -1,0 +1,6 @@
+pesanan_id,nama_cabang,nama_menu,qty,harga_satuan,waktu_pesan
+P008,Solo,Cappuccino,3,22000,2026-11-05 13:56:41
+P009,Semarang,Kopi Susu,5,18000,2026-11-05 13:56:51
+P010,Magelang,Kopi Susu,2,18000,2026-11-05 13:57:01
+P011,Yogyakarta,Latte,2,25000,2026-11-05 13:57:11
+P012,Solo,Americano,4,20000,2026-11-05 13:57:21
